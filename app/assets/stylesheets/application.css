@@ -13,3 +13,24 @@
  *= require_tree .
  *= require_self
  */
+ body {
+   padding-top: 60px;
+   font-family: 'Raleway', sans-serif;
+ }
+
+ table,td,th {
+   vertical-align: middle;
+   border: none;
+   font-family: 'Raleway', sans-serif;
+ }
+
+ th {
+   border-bottom: 1px solid #DDD;
+ }
+
+ footer {
+   margin-top: 100px;
+   text-align: center;
+   color: #999;
+
+ }
